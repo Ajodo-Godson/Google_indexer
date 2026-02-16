@@ -1,5 +1,5 @@
 # Google_indexer
-Simple Script Trick to bypass google crawl
+Simple Script Trick to bypass google crawl waitlist
 
 
 - Install Dependencies;
