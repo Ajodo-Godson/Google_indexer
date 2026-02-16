@@ -4,7 +4,7 @@ from google.oauth2 import service_account
 
 
 KEY_FILE = 'service_key.json'  # Make sure this file name matches yours (get this from your google cloud console)
-URL_TO_INDEX = 'https://your_site' // This should match yours
+URL_TO_INDEX = 'https://your_site' # This should match yours
 SCOPES = ["https://www.googleapis.com/auth/indexing"]
 ENDPOINT = "https://indexing.googleapis.com/v3/urlNotifications:publish"
 
